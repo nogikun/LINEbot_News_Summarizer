@@ -1,6 +1,6 @@
 # IntelligentSystem_GroupWork
 知的システムグループワーク用の開発レポジトリです。
-
+## 知的システム_Webサイトエキスパートシステム.ipynb
 ### 関数の説明
 #### ・スクレイピング
 ##### import_news()
