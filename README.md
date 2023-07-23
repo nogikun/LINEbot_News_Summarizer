@@ -1,0 +1,2 @@
+# IntelligentSystem_GroupWork
+知的システムグループワーク用の開発レポジトリです。
