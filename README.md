@@ -2,7 +2,7 @@
 知的システムグループワーク用の開発レポジトリです。
 ## 知的システム_Webサイトエキスパートシステム.ipynb
 ### フローチャート
-[知的システム_フローチャート.png](https://github.com/nogikun/IntelligentSystem_GroupWork/blob/main/%E7%9F%A5%E7%9A%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%95%E3%83%AD%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88_ENG.png)
+![知的システム_フローチャート.png](https://github.com/nogikun/IntelligentSystem_GroupWork/blob/main/%E7%9F%A5%E7%9A%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%95%E3%83%AD%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88_ENG.png)
 ### 関数の説明
 #### ・スクレイピング
 ##### import_news()
