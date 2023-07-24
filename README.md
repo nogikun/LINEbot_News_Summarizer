@@ -7,6 +7,11 @@
 | 引数 | 型 | 説明 |
 |:-----:|-----|-----|
 |  url  | str |  スクレイピングしたいURLを入力する。  |
+
+| 戻り値 | 型 | 説明 |
+|:-----:|-----|-----|
+|  article_title  | str |  記事のタイトル  |
+|  article_content  | str |  記事の内容  |
 ```python
 def import_news(url):
   # requestsを使って、ウェブページのHTMLを取得する
@@ -26,6 +31,10 @@ def import_news(url):
 | 引数 | 型 | 説明 |
 |:-----:|-----|-----|
 |  folder_path  | str |  スクレイピングした記事.txtが格納されているフォルダパスを指定。<br>今回は'./news' |
+
+| 戻り値 | 型 | 説明 |
+|:-----:|-----|-----|
+|  prule  | list |  ２次元配列であり、以下のような保存形式である。<br>[ ['記事１タイトル', '単語１', '単語２' ,,,, '単語N']<br>, ['記事２タイトル', '単語１', '単語２' ,,,, '単語N'] ]  |
 ```python
 def create_prule(folder_path):
   prule = [] # 形態素解析用
@@ -49,6 +58,11 @@ def create_prule(folder_path):
 | 引数 | 型 | 説明 |
 |:-----:|-----|-----|
 |  text  | str |  分かち書きしたい文章を指定する<br>今回は記事の本文  |
+
+| 戻り値 | 型 | 説明 |
+|:-----:|-----|-----|
+|  tango  | list |  １次元配列<br>分かち書きした内容が保存されている。<br>['単語１', '単語２', '単語３', ... ,'単語N']  |
+
 ```python
 def extract_nouns(text):
     mecab = MeCab.Tagger(ipadic.MECAB_ARGS)  # 単語に分割するためのTaggerを作成
@@ -73,6 +87,10 @@ def extract_nouns(text):
 |:-----:|-----|-----|
 |  inputline  | str |  ユーザーの入力  |
 |  prule  | list |  ２次元配列であり、以下のような保存形式である。<br>[ ['記事１タイトル', '単語１', '単語２' ,,,, '単語N']<br>, ['記事２タイトル', '単語１', '単語２' ,,,, '単語N'] ]  |
+
+| 戻り値 | 型 | 説明 |
+|:-----:|-----|-----|
+|  なし  | ----- |  -----  |
 ```python
 def answer(inputline, prule):
   no = 0
@@ -97,6 +115,11 @@ def answer(inputline, prule):
 |:-----:|-----|-----|
 |  inputline  | str |  ユーザーの入力  |
 |  prule  | list |  １次元配列であり、以下のような保存形式である。<br>['記事１タイトル', '単語１', '単語２' ,,,, '単語N']  |
+
+| 戻り値 | 型 | 説明 |
+|:-----:|-----|-----|
+|  True  | bool |  shinglepの単語がinputlineに24文字以上含まれていたらTrueを返す。  |
+|  False  | bool |  shinglepの単語がinputlineに24文字以上含まれていなければFalseを返す。  |
 ```python
 def rulematch(inputline, singlep):
   count = 0
