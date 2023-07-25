@@ -1,12 +1,12 @@
 # IntelligentSystem_GroupWork
 知的システムグループワーク用の開発レポジトリです。
 
-## [知的システム_ChatBot.ipynb]()
+## [知的システム_ChatBot.ipynb](https://github.com/nogikun/IntelligentSystem_GroupWork/blob/UseLineBot/%E7%9F%A5%E7%9A%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_ChatBot.ipynb)
 ### 実行フローについて
 
 ### 
 
-## [知的システム_Webサイトエキスパートシステム.ipynb](https://github.com/nogikun/IntelligentSystem_GroupWork/blob/UseLineBot/%E7%9F%A5%E7%9A%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_Web%E3%82%B5%E3%82%A4%E3%83%88%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%8F%E3%82%9A%E3%83%BC%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0.ipynb)
+## [知的システム_Webサイトエキスパートシステム.ipynb](https://github.com/nogikun/IntelligentSystem_GroupWork/blob/UseLineBot/%E7%9F%A5%E7%9A%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_Web%E3%82%B5%E3%82%A4%E3%83%88%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0.ipynb)
 ### フローチャート
 ![知的システム_フローチャート.png](https://github.com/nogikun/IntelligentSystem_GroupWork/blob/main/%E7%9F%A5%E7%9A%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%95%E3%83%AD%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88_ENG.png)
 ### 関数の説明
