@@ -1,4 +1,4 @@
-# IntelligentSystem_GroupWork
+# LINEbotを用いたニュース記事の要約システム
 知的システムグループワーク用の開発レポジトリです。
 
 ### 最新版について
