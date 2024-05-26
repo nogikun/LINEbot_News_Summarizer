@@ -15,6 +15,8 @@
 <img src="https://github.com/nogikun/LINEbot_News_Summarizer/assets/94681885/55f3e7df-36f6-4959-8ed9-96bd5a20c330.jpg" width="50%">
 </a>
 
+SpeakerDock : [https://speakerdeck.com/nogikun/webji-shi-yao-yue-tiyatutobotuto](https://speakerdeck.com/nogikun/webji-shi-yao-yue-tiyatutobotuto)
+
 ### 2. DEMO
 デモ映像は下記の通りです。
 
