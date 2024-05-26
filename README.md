@@ -9,13 +9,13 @@
 <!-- [![image](https://github.com/nogikun/LINEbot_News_Summarizer/assets/94681885/55f3e7df-36f6-4959-8ed9-96bd5a20c330)](https://speakerdeck.com/nogikun/webji-shi-yao-yue-tiyatutobotuto) -->
 
 ### 1. スライド資料
-下記画像をクリックする事で SpeakerDock にて共有のスライドを確認することができます。
+下記画像をクリックする事で SpeakerDeck にて共有のスライドを確認することができます。
 
 <a href="https://speakerdeck.com/nogikun/webji-shi-yao-yue-tiyatutobotuto">
 <img src="https://github.com/nogikun/LINEbot_News_Summarizer/assets/94681885/55f3e7df-36f6-4959-8ed9-96bd5a20c330.jpg" width="50%">
 </a>
 
-SpeakerDock : [https://speakerdeck.com/nogikun/webji-shi-yao-yue-tiyatutobotuto](https://speakerdeck.com/nogikun/webji-shi-yao-yue-tiyatutobotuto)
+SpeakerDeck : [https://speakerdeck.com/nogikun/webji-shi-yao-yue-tiyatutobotuto](https://speakerdeck.com/nogikun/webji-shi-yao-yue-tiyatutobotuto)
 
 ### 2. DEMO
 デモ映像は下記の通りです。
