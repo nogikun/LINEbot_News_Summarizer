@@ -1,7 +1,7 @@
 # LINEbotを用いたニュース記事の要約システム
 数あるニュースサイトの記事を要約をしてくれる LINE Bot を作成しました。
 また、レポートはこちらにまとめております。<br>
-[LINEbotを用いたニュース記事の要約システムの作成(Notion)](https://sticky-wandflower-070.notion.site/LINEbot-18422079f4994d7b912dcf7ccb2ba6ac)
+[LINEbotを用いたニュース記事の要約システムの作成(Notion)](https://nogikun.notion.site/LINEbot-18422079f4994d7b912dcf7ccb2ba6ac)
 
 ### 0. 最新版について
 最新版は下記Notebookより確認ください。<br>
